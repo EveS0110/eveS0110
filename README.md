@@ -4,11 +4,17 @@
 
 ###
 
-<p align="left">🚀Desesnvolvedora FullStack</p>
+<h3 align="left">🚀Desesnvolvedora FullStack</h3>
 
 ###
 
-<p align="left">Eu sou uma aprendiz de tecnologia com interesse em atuar como profissional fullstak. Atualmente, estou desenvolvendo habilidades em HTML, CSS e JavaScript, focada em construir bases sólidas tanto no front-end quanto no back-end, explorando Node.js, APIs e banco de dados.</p>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="center">Eu sou uma aprendiz de tecnologia com interesse em atuar como profissional fullstak. Atualmente, estou desenvolvendo habilidades em HTML, CSS e JavaScript, focada em construir bases sólidas tanto no front-end quanto no back-end, explorando Node.js, APIs e banco de dados.</p>
 
 ###
 
@@ -44,17 +50,19 @@
 
 ###
 
-<p align="left">🚀Projetos em destaque</p>
+<p align="left">📂Projetos em destaque</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="115" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveS0110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=synthwave&hide_border=true&order=2" height="162" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/eveS0110/eveS0110/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eveS0110&radius=16&theme=synthwave-84&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
