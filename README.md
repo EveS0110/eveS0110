@@ -1,8 +1,20 @@
-<h1 align="left">Hello Word! Eu sou a Evely Sena</h1>
+<br clear="both">
+
+<h1 align="left">👩🏽‍💻Hello Word! Eu sou a Evely Sena</h1>
 
 ###
 
-<p align="left">💻Estudante de Análise e Desenvolvimento de Sistemas<br>🚀Apaixonada por tecnologia e inovação</p>
+<p align="left">🚀Desesnvolvedora FullStack</p>
+
+###
+
+<p align="left">Eu sou uma aprendiz de tecnologia com interesse em atuar como profissional fullstak. Atualmente, estou desenvolvendo habilidades em HTML, CSS e JavaScript, focada em construir bases sólidas tanto no front-end quanto no back-end, explorando Node.js, APIs e banco de dados.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eveS0110.eveS0110&"  />
+</div>
 
 ###
 
@@ -33,15 +45,16 @@
 ###
 
 <p align="left">🚀Projetos em destaque</p>
-* [gerenciador de Alunos]- (https://github.com/EveS0110/Mini_projeto)<br>
-* [sistema gerenciador de playlists-](https://github.com/EveS0110/ProjetoSquadPdA)
-
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eveS0110&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveS0110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=synthwave&hide_border=true&order=2" height="162" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eveS0110/eveS0110/output/snake.svg" alt="Snake animation" />
 
 ###
