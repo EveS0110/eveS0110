@@ -70,7 +70,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true" height="197" alt="stats graph" />
-  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveS0110&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
 </div>
 
