@@ -35,6 +35,7 @@
 
 <p align="left">
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+- ✍🏽 Formação em Desenvolvimento Web FullStak pelo Programa Programadores do Amanhã<br>
 - 📚 Apaixonada por tecnologia<br>
 - ⚡ Em constante aprendizado
 </p>
