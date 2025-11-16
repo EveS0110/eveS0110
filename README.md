@@ -70,7 +70,7 @@
 
 <h3 align="left">🔥 Minhas estatísticas</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true" height="197" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveS0110&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
@@ -88,14 +88,14 @@
 
 <h3 align="left">🗂 Projetos em destaque</h3>
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/EveS0110/MiniProjetoM2-API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko" /> <br>
   </a>
 
   <a href="https://github.com/EveS0110/ProjetoSquadPdA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=ProjetoSquadPdA&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=ProjetoSquadPdA&theme=merko" /> <br>
   </a>
 
   <a href="https://github.com/EveS0110/meu-primeiro-portif-lio" target="_blank">
