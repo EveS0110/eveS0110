@@ -1,10 +1,16 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=💜+Olá+mundo!;Eu+sou+a+Evely+Sena+👋" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
   <img height="300" src="banner-teck.jpg" alt="Banner tech" />
 </div>
 
 
 
-###
+
 
 <div align="center">
   <h2>🌐Vamos nos conectar?<h2><br>
@@ -23,11 +29,7 @@
 
 ###
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=💜+Olá+mundo!;Eu+sou+a+Evely+Sena+👋" alt="Typing SVG" />
-  </a>
-</h1>
+
 
 ###
 
