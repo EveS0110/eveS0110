@@ -90,16 +90,14 @@
 
 <div align="left">
 
-  <a href="https://github.com/EveS0110/MiniProjetoM2-API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko" /> <br>
-  </a>
-
-  <a href="https://github.com/EveS0110/ProjetoSquadPdA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=ProjetoSquadPdA&theme=merko" /> <br>
-  </a>
+  
 
   <a href="https://github.com/EveS0110/meu-primeiro-portif-lio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=meu-primeiro-portif-lio&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=meu-primeiro-portif-lio&theme=merko" /> <br>
+  </a>
+
+  <a href="https://github.com/EveS0110/MiniProjetoM2-API" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko" /> <br>
   </a>
 
 </div>
