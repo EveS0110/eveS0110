@@ -8,12 +8,10 @@
   <img height="300" src="banner-teck.jpg" alt="Banner tech" />
 </div>
 
-
-
-
+---
 
 <div align="center">
-  <h2>🌐Vamos nos conectar?<h2><br>
+  <h2>🌐 Vamos nos conectar?</h2>
   <a href="https://www.linkedin.com/in/evelysdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -22,29 +20,18 @@
   </a>
 </div>
 
-###
+---
 
+### 👩‍💻 Sobre mim
 
-</div>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- ✍🏽 Formação em **Desenvolvimento Web FullStack** pelo Programa **Programadores do Amanhã**  
+- 📚 Apaixonada por **tecnologia**  
+- ⚡ Em constante aprendizado  
 
-###
+---
 
-
-
-###
-
-<h3 align="left">👩‍💻 Sobre mim</h3>
-
-<p align="left">
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-- ✍🏽 Formação em Desenvolvimento Web FullStak pelo Programa Programadores do Amanhã<br>
-- 📚 Apaixonada por tecnologia<br>
-- ⚡ Em constante aprendizado
-</p>
-
-###
-
-<h3 align="left">🛠 Ferramentas que utilizo</h3>
+### 🛠 Ferramentas que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -66,39 +53,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 Minhas estatísticas</h3>
+### 🔥 Minhas estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eveS0110&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true" height="197" alt="stats graph" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eveS0110&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveS0110&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eveS0110&layout=compact&theme=merko&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  
 </div>
 
-###
+---
 
-<h3 align="left">🐍 Snake</h3>
+### 🗂 Projetos em destaque
+
+<div align="center">
+
+  <a href="https://github.com/EveS0110/gerenciador-tarefas-frontend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=meu-primeiro-portif-lio&theme=merko&hide_border=true" alt="API Gerenciadora de Tarefas" />
+  </a>
+  
+  <a href="https://github.com/EveS0110/MiniProjetoM2-API" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko&hide_border=true" alt="Projeto: Mini Projeto M2 API" />
+  </a>
+
+</div>
+
+---
+
+### 🐍 Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eveS0110/eveS0110/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<h3 align="left">🗂 Projetos em destaque</h3>
-
-<div align="left">
-
-  
-
-  <a href="https://github.com/EveS0110/meu-primeiro-portif-lio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=meu-primeiro-portif-lio&theme=merko" /> <br>
-  </a>
-
-  <a href="https://github.com/EveS0110/MiniProjetoM2-API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EveS0110&repo=MiniProjetoM2-API&theme=merko" /> <br>
-  </a>
-
-</div>
-
